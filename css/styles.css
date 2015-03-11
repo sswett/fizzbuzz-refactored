@@ -1,0 +1,6 @@
+#input-section, #output-section {
+	margin: 50px;
+	padding: 2em;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
